@@ -1,11 +1,16 @@
 # trainer app with admin (Manager) app
 
-### its realted to the tournament app 
+### its related to the tournament app 
 - Coaches Signin with trainer app and add 13 players
 - manager can see this coaches details and add tournaments and sport types the coaches thats added teams on tournament base and sport types   admin pplannig a match according to this and also by teams gender and weights
 
 * 📱 `to See Admin App Switch Admin App Branch`
 * 📱 `to See Trainer App Switch Main Branch`
+
+ ```bash
+    Storage: Firebase
+ ```
+
 
 ## Trainer & Admin: AppIcon
 <img style='width:100%;' src='screenshots/appicon.png'>
