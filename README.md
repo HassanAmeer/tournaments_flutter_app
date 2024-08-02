@@ -11,7 +11,7 @@
     Storage: Firebase
  ```
 
-
+ 
 ## Trainer & Admin: AppIcon
 <img style='width:100%;' src='screenshots/appicon.png'>
 
